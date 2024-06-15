@@ -33,6 +33,7 @@ function App() {
         <p>
           <em className='atributes'> ¿Cuáles son mis atributos? </em>
         </p>
+        <p className='points'>* * * * * * * * * * * * * * * * * * </p>
         <br />
         <br />
         <DanielsPray/>
