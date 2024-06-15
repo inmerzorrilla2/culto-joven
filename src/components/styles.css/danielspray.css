@@ -4,12 +4,15 @@
     border-radius: 50%;
     margin: auto;
     padding: 60px;
-    width: 300px; /* o un porcentaje si prefieres */
-    height: 300px; /* igual al ancho para mantener la forma circular */
+    width: 200px; /* o un porcentaje si prefieres */
+    height: 200px; /* igual al ancho para mantener la forma circular */
     aspect-ratio: 1 / 1; /* mantiene la relación de aspecto incluso si el ancho o el alto cambian */
 }
 
 .multiplicar{
-    font-size: 25px;
+    font-size: 20px;
+}
+.multiplicar2{
+    font-size: 12px;
 }
 

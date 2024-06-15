@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <div>
+      <div className='App'>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
@@ -17,7 +17,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
         
-      </div>
+      
       <h1>Culto Joven</h1>
       <h2>"Secretos de la oración de Daniel"</h2>
       <p>Sábado 15 de junio de 2024</p>
@@ -57,8 +57,12 @@ function App() {
       
       <span>Prof. Wilber Millán, mi profesor de React.</span>
       </em>
+      </div>
     </>
+
   )
+
 }
+
 
 export default App
