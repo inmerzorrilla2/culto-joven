@@ -24,7 +24,7 @@ function App() {
       <p>Por: Inmer Zorrilla</p>
       <hr />
       <br />
-      <img className='daniel' src="../public/daniel.jpeg" alt="Daniel" />
+      <img className='daniel' src="./assets/daniel.jpeg" alt="Daniel" />
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
          Atributos de Daniel: {count}
