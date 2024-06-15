@@ -1,6 +1,8 @@
 .App{
   /* Delete horizontal scrollbar */
   overflow-x: hidden;
+  margin: auto;
+  width: 60%;
  
 }
 

@@ -37,6 +37,7 @@ function App() {
         <br />
         <DanielsPray/>
       </div>
+      <hr />
       <br />
 
       
