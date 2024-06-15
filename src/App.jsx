@@ -23,6 +23,14 @@ function App() {
       <p>Sábado 15 de junio de 2024</p>
       <p>Por: Inmer Zorrilla</p>
       <hr />
+      <p className="read-the-docs">
+      <em>
+      "Cuando Daniel supo que el edicto había sido firmado, entró en su casa, y abiertas las ventanas de su cámara que daban hacia Jerusalén, se arrodillaba tres veces al día, y oraba y daba gracias delante de su Dios, como lo solía hacer antes".
+      (Daniel: 6:10)
+      </em>
+      <br />
+      </p>
+
       <br />
       <img className='daniel' src="./assets/daniel.jpeg" alt="Daniel" />
       <div className="card">
@@ -57,7 +65,7 @@ function App() {
       <p><strong> y todo da miedo -- hasta que lo conoces"</strong></p>
       <em>
       
-      <span>Prof. Wilber Millán, mi profesor de React.</span>
+      <span>Mtro. Wilber Millán, mi Profesor de React.</span>
       </em>
       </div>
     </>
