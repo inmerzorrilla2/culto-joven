@@ -1,0 +1,15 @@
+.danielspray{
+    border: 3px solid black;
+    box-shadow: 0 0 20px black;
+    border-radius: 50%;
+    margin: auto;
+    padding: 60px;
+    width: 300px; /* o un porcentaje si prefieres */
+    height: 300px; /* igual al ancho para mantener la forma circular */
+    aspect-ratio: 1 / 1; /* mantiene la relación de aspecto incluso si el ancho o el alto cambian */
+}
+
+.multiplicar{
+    font-size: 25px;
+}
+
